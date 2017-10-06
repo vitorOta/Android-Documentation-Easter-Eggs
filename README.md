@@ -17,3 +17,11 @@ Compilation of easter eggs found in the Android Documentation
 
    > Also, upon completing the dispatch, the object must make a cup of tea, return it to the caller, and exclaim "jolly good message old boy!".
    
+* [GRAVITY_DEATH_STAR_I](https://developer.android.com/reference/android/hardware/SensorManager.html#GRAVITY_DEATH_STAR_I)
+   > Gravity (estimate) on the first Death Star in Empire units (m/s^2)
+   
+* [GRAVITY_THE_ISLAND](https://developer.android.com/reference/android/hardware/SensorManager.html#GRAVITY_THE_ISLAND)
+   > Gravity on the island
+
+   > Constant Value: 4.815162
+   
