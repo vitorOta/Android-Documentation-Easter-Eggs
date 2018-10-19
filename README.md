@@ -7,6 +7,7 @@ Compilation of easter eggs found in the Android Documentation
 - [TWEET TRANSACTION](#tweet_transaction)
 - [GRAVITY_DEATH_STAR_I](#gravity_death_star_i)
 - [GRAVITY_THE_ISLAND](#gravity_the_island)
+- [Log.wtf()](#log_wtf)
 
 
 
@@ -35,3 +36,5 @@ Compilation of easter eggs found in the Android Documentation
 
    _Constant Value: 4.815162_
    
+## [Log.wtf()](https://developer.android.com/reference/android/util/Log#wtf(java.lang.String,%20java.lang.String))
+   _What a Terrible Failure: Report a condition that should never happen. The error will always be logged at level ASSERT with the call stack. Depending on system configuration, a report may be added to the DropBoxManager and/or the process may be terminated immediately with an error dialog._
