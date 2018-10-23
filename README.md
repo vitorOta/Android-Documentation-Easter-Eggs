@@ -8,7 +8,7 @@ Compilation of easter eggs found in the Android Documentation
 - [GRAVITY_DEATH_STAR_I](#gravity_death_star_i)
 - [GRAVITY_THE_ISLAND](#gravity_the_island)
 - [Log.wtf()](#logwtf)
-- [DISALLOW_FUN](#disallowfun)
+- [DISALLOW_FUN](#disallow_fun)
 
 
 
