@@ -8,6 +8,7 @@ Compilation of easter eggs found in the Android Documentation
 - [GRAVITY_DEATH_STAR_I](#gravity_death_star_i)
 - [GRAVITY_THE_ISLAND](#gravity_the_island)
 - [Log.wtf()](#logwtf)
+- [DISALLOW_FUN](#disallow_fun)
 
 
 
@@ -37,3 +38,6 @@ Compilation of easter eggs found in the Android Documentation
    
 ## [Log.wtf()](https://developer.android.com/reference/android/util/Log#wtf(java.lang.String,%20java.lang.String))
    _What a Terrible Failure: Report a condition that should never happen. The error will always be logged at level ASSERT with the call stack. Depending on system configuration, a report may be added to the DropBoxManager and/or the process may be terminated immediately with an error dialog._
+   
+## [DISALLOW_FUN](https://developer.android.com/reference/android/os/UserManager#DISALLOW_FUN)
+   _Specifies if the user is not allowed to have fun. In some cases, the device owner may wish to prevent the user from experiencing amusement or joy while using the device. The default value is false._
